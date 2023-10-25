@@ -12,6 +12,7 @@ I thrive on solving complex problems and finding unconventional ways to make tec
 🌐 I love turning data into insights that drive decisions and help businesses grow.
 📡 My passion for backend development leads to robust, efficient, and scalable services.
 🐳 Docker is my secret sauce for containerizing and deploying applications.
+
 ### What I Do
 #### Data Alchemist
 I'm like a wizard with data. Whether it's wrangling, visualizing, or mining data, I know how to turn raw information into gold. Data-driven decisions are the future.
@@ -35,19 +36,18 @@ DockerMasterpiece: Dockerized Services for the Future
 ### Let's Connect
 I'm always open to collaboration, discussions, and learning from fellow tech enthusiasts. Feel free to reach out:
 
-📧 Email: your.email@example.com
-📱 LinkedIn: YourName
-🐦 Twitter: @YourTwitterHandle
+📧 Email: u23 (at) nowhere
+📱 LinkedIn: 
+🐦 Twitter: 
 
 ## Join the Adventure
 If you're as passionate about data, backend development, Kotlin, and Docker as I am, then you've come to the right place. Join me on this exciting journey to explore the depths of technology and make some magic happen.
 
 🚀 Let's create, innovate, and build the future together! 🚀
 
-# Code Magic:
-
-## Note: 
-Replace "your.email@example.com," "YourName," and "YourTwitterHandle" with your actual contact information 😂
+```
+Code Magic:
+```
 
 <!--
 **underdeveloper23/underdeveloper23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
