@@ -3,6 +3,9 @@
 
 I'm a data developer, hacker, and backend enthusiast with a passion for building creative and innovative solutions. I specialize in using Kotlin and Docker to create unique services that make the world a better place.
 
+![👋](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+
 ### Code in Action
 
 ## About Me
@@ -44,6 +47,8 @@ I'm always open to collaboration, discussions, and learning from fellow tech ent
 If you're as passionate about data, backend development, Kotlin, and Docker as I am, then you've come to the right place. Join me on this exciting journey to explore the depths of technology and make some magic happen.
 
 🚀 Let's create, innovate, and build the future together! 🚀
+
+![👋](https://media.giphy.com/media/3oEduOt8fNdSTZUmvW/giphy.gif)
 
 ```
 Code Magic:
