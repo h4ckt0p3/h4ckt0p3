@@ -50,9 +50,8 @@ If you're as passionate about data, backend development, Kotlin, and Docker as I
 
 ![👋](https://media.giphy.com/media/3oEduOt8fNdSTZUmvW/giphy.gif)
 
-```
-Code Magic:
-```
+
+Code Magic: https://hacktopiealgoridom.com
 
 <!--
 **underdeveloper23/underdeveloper23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
