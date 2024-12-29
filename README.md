@@ -58,7 +58,7 @@ I'm constantly brewing up new projects that reflect my passion for combating dis
 Always open to collaboration, discussions, and learning from fellow truth-seekers. Feel free to reach out:
 
 
-📧 Email: vzorkydezinfo (at) gmail.com
+📧 Email: h4ckt0p3 (at) gmail.com
 
 📱 LinkedIn:
 🐦 Twitter:
